@@ -6,13 +6,13 @@ Built with plain **HTML, CSS and JavaScript**. No frameworks, no build step, no 
 
 ## Play
 
-- **Locally:** download or clone the repo and open `index.html` in any modern browser.
-- **GitHub Pages:** push to GitHub, then go to *Settings → Pages → Deploy from branch → `main` / root*. Your game will be live at `https://<your-username>.github.io/<repo-name>/`.
+- **Online:** [Play Prime Minister: Rule Valoria](https://notparthyt.github.io/prime-minister-game/).
+- **Locally:** clone the repo and open `index.html` in any modern browser, or serve it locally:
 
 ```bash
-git clone https://github.com/<your-username>/prime-minister-game.git
+git clone https://github.com/notparthyt/prime-minister-game.git
 cd prime-minister-game
-# open index.html, or serve it locally:
+# Or serve it locally:
 python3 -m http.server 8000   # then visit http://localhost:8000
 ```
 
